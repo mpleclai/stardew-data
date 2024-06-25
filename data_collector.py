@@ -6,7 +6,6 @@ import zipfile
 import os
 
 XNB_HACK_VERSION = "1.1.0"
-# NEW_XNB_HACK = MACOS_DEFAULT_PATH+"StardewXnbHack"
 
 def main():
 
